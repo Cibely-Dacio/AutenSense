@@ -6,21 +6,18 @@ O AutenSense é um sistema web desenvolvido para auxiliar pessoas com Transtorno
 <img width="1338" height="897" alt="image" src="img2.jpeg" />
 <img width="1338" height="897" alt="image" src="img3.jpeg" />
 
-# 💡Sobre o Projeto - Proposta
+## 💡Sobre o Projeto - Proposta
 As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devido à intensidade e imprevisibilidade dos estímulos urbanos, se tornou cada vez mais notavel com o passar dos anos. Propor a criação de uma plataforma digital interativa destinada à avaliação da percepção sensorial em ambientes urbanos foi uma ideia viavel para resolver essa situação. Ela apoia as famílias e os próprios usuários neurodivergentes no planejamento de suas rotinas e atividades diárias, garantindo maior previsibilidade, segurança, inclusão social e qualidade de vida na cidade. Sendo uns dos seus objetivos:
 - Mapear a previsibilidade urbana através de dados colaborativos sobre ruído, iluminação e fluxo de pessoas.  
 - Promover a autonomia e segurança de indivíduos neurodivergentes e suas famílias no planejamento de rotinas diárias
 
-# 📄Funcionalidades
+## 📄Funcionalidades
 - Mapa Interativo com Geolocalização: Exibição geográfica em tempo real dos locais urbanos cadastrados e facilidade de buscar/localizar ambientes próximos.
 - Avaliação Sensorial Colaborativa: Mecanismo para registrar avaliações e compartilhar experiências sobre os locais com base em critérios como níveis de ruído, iluminação e fluxo de pessoas.
 - Filtros e Classificação Sensorial: Aplicação de filtros baseados em características sensoriais e visualização de um ranking que classifica os ambientes com base no conforto que oferecem.
 - Perfil Sensorial Personalizado: Criação e configuração de perfis específicos focados nas necessidades e preferências de cada usuário.
-# 🎞️Demonstração
-# 💻Tecnologias Utilizalidas
-
-
-### 💻 Tecnologias Utilizadas
+## 🎞️Demonstração
+## 💻 Tecnologias Utilizadas
 
 | Camada | Tecnologia | Motivo |
 | :--- | :--- | :--- |
@@ -29,7 +26,8 @@ As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devi
 | **Banco de Dados** | MySQL | Atua como o Sistema Gerenciador de Banco de Dados (SGBD) relacional, garantindo o armazenamento estruturado, a persistência e a integridade de dados complexos (como tabelas de usuários, locais e avaliações). |
 | **Servidor** | Apache (via XAMPP) | O Apache é utilizado como o servidor web local para interpretar os scripts em PHP e intermediar a comunicação com o banco de dados durante o ambiente de desenvolvimento e testes. |
 | **Deploy** |  |  |
-# 🗂️Estrutura de Pastas
+
+## 🗂️Estrutura de Pastas
 ```
 🗂️AUTENSENSETCC2/
 │
@@ -60,8 +58,8 @@ As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devi
 │   └── 📄outras imagens dos locais
 ```
 
-# 🔎Como Executar
-## Pré-Requisitos
+## 🔎Como Executar
+### Pré-Requisitos
 (PhP)
-## Instalar Dependencias
-## Execução
+### Instalar Dependencias
+### Execução
