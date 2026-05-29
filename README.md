@@ -18,13 +18,17 @@ As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devi
 - Perfil Sensorial Personalizado: Criação e configuração de perfis específicos focados nas necessidades e preferências de cada usuário.
 # 🎞️Demonstração
 # 💻Tecnologias Utilizalidas
-|Camada|Tecnologia|Motivo|
-| :--- | :---: | ---: |
-|Font-End|-|-|
-|Back-End|-|-|
-|Banco de Dados|-|-|
-|Servidor|-|-|
-|Deploy|-|-|
+
+
+### 💻 Tecnologias Utilizadas
+
+| Camada | Tecnologia | Motivo |
+| :--- | :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript e Leaflet | Utilizados para construir a estrutura semântica, a estilização responsiva e a interatividade da interface. A biblioteca Leaflet é empregada especificamente para integrar os serviços de geolocalização e renderizar o mapa interativo. |
+| **Back-End** | PHP | Responsável pelo processamento de todas as regras de negócio do sistema, gerenciamento das requisições web e pela integração segura entre a interface e a camada de dados. |
+| **Banco de Dados** | MySQL | Atua como o Sistema Gerenciador de Banco de Dados (SGBD) relacional, garantindo o armazenamento estruturado, a persistência e a integridade de dados complexos (como tabelas de usuários, locais e avaliações). |
+| **Servidor** | Apache (via XAMPP) | O Apache é utilizado como o servidor web local para interpretar os scripts em PHP e intermediar a comunicação com o banco de dados durante o ambiente de desenvolvimento e testes. |
+| **Deploy** |  |  |
 # 🗂️Estrutura de Pastas
 ```
 🗂️AUTENSENSETCC2/
@@ -56,4 +60,8 @@ As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devi
 │   └── 📄outras imagens dos locais
 ```
 
-j
+# 🔎Como Executar
+## Pré-Requisitos
+(PhP)
+## Instalar Dependencias
+## Execução
