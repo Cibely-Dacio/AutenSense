@@ -18,12 +18,19 @@ As barreiras invisíveis e as dificuldades enfrentadas por pessoas com TEA, devi
 - Perfil Sensorial Personalizado: Criação e configuração de perfis específicos focados nas necessidades e preferências de cada usuário.
 # 🎞️Demonstração
 # 💻Tecnologias Utilizalidas
+|Camada|Tecnologia|Motivo|
+| :--- | :---: | ---: |
+|Font-End|-|-|
+|Back-End|-|-|
+|Banco de Dados|-|-|
+|Servidor|-|-|
+|Deploy|-|-|
 # 🗂️Estrutura de Pastas
 ```
 🗂️AUTENSENSETCC2/
 │
-├── backend/📁
-│   ├── data/📁
+├── 📁backend/
+│   ├── 📁data/
 │   │   ├── 📄avaliacoes.json
 │   │   ├── 📄favoritos.json
 │   │   ├── 📄perfis.json
