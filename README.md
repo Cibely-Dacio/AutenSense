@@ -1,4 +1,4 @@
-<img src="https://github.com/Cibely-Dacio/AutenSense/issues/1#issue-4550912763" align="left" width="100" style="margin-right: 10px;">
+<img src="img1.jpeg" align="left" width="100" style="margin-right: 10px;">
 
 # AutenSense
 
